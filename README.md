@@ -7,7 +7,7 @@ __*Tell me what you know about dreamin'...*__
 My name's Samyra, i'm in the Middle School 7th grade and i'm from Brazil. I intend to be a software enginner back-end when i grow up (For now, i just do some things hehehe) And i hope to have a great experience in my way to my ✨*dreams*✨ 😊💖
 * 💁‍♀️ Pronouns: She/Her 
 * 🏡✈ Local: Brasil, São Paulo 
-* 🎨💻 Hobbies: Listen some music (Rock, MPB and Pop) karaoke, and when my config let i play some games...
+* 🎨💻 Hobbies: Listen some music (Rock, MPB and Pop) karaoke, and when my hardware specs let i play some games...
 
 
      ![tenor (1)](https://user-images.githubusercontent.com/77402118/104514428-0166b980-55d0-11eb-967f-946ec6adc56d.gif) 
