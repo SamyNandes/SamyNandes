@@ -4,7 +4,7 @@
 
 __*Tell me what you know about dreamin'...*__ 
 
-My name's Samyra, i'm in the high school and i'm from Brazil. I intend to be study further about computation.
+My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study further about computation.
 * 💁‍♀️ Pronouns: She/Her 
 * 🏡✈ Local: Brasil, São Paulo 
 * 🎨💻 Hobbies: Listen some music (Rock, MPB and Pop) karaoke, and when my hardware specs let i play some games...
