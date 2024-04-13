@@ -8,7 +8,7 @@ My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study 
 * 🎨💻 Hobbies: Listen some music (Rock, MPB and Pop) karaoke, and when my hardware specs let i play some games...
 *
      
-<details><summary>Resume</summary>
+<details><summary>📕 Resume</summary>
 
    
 ## Formation
@@ -23,6 +23,7 @@ My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study 
 
 
                               
-  ![giphy](https://github.com/SamyNandes/SamyNandes/assets/72414984/0da7a31f-c676-42fa-a899-54c59851401d)
-     Eu amo aprender e sempre estarei disposta!
+![giphy](https://github.com/SamyNandes/SamyNandes/assets/72414984/0da7a31f-c676-42fa-a899-54c59851401d)
+
+Eu amo aprender e sempre estarei disposta!
                            
