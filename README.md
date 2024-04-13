@@ -6,11 +6,21 @@ My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study 
 * 💁‍♀️ Pronouns: She/Her 
 * 🏡✈ Local: Brasil, São Paulo 
 * 🎨💻 Hobbies: Listen some music (Rock, MPB and Pop) karaoke, and when my hardware specs let i play some games...
-* 
+*
+<details>
+     <sumary>Resume</sumary>
+     ##Formation
+     * 📍 **Etec de Guarulhos**\
+       📆  2024 - moment
+       📖 **Desenvolvimento de Sistemas**\
+     * 📍 **SENAI Hermenegildo Campos de Almeida**\
+       📆 2024 - moment
+       📖 **Eletricista de Manutenção Eletroeletrônica**\
+     
+</details>
 
+                              
+                           ![giphy](https://github.com/SamyNandes/SamyNandes/assets/72414984/0da7a31f-c676-42fa-a899-54c59851401d)
 
-     ![tenor (1)](https://user-images.githubusercontent.com/77402118/[104514428-0166b980-55d0-11eb-967f-946ec6adc56d.gif](https://giphy.com/gifs/OfflineGranny-funny-old-lady-offline-granny-goKgmdgnBfbYhsZFy9))
-  
-                           
-                           Eu ai ⬆
+                           Eu amo aprender e sempre estarei disposta!
                            
