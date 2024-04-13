@@ -9,11 +9,10 @@ My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study 
 *
 <details>
      <sumary>Resume</sumary>
-##Formation
-     * 📍 **Etec de Guarulhos**\
+* 📍 **Etec de Guarulhos**\
        📆  2024 - moment
        📖 **Desenvolvimento de Sistemas**\
-     * 📍 **SENAI Hermenegildo Campos de Almeida**\
+* 📍 **SENAI Hermenegildo Campos de Almeida**\
        📆 2024 - moment
        📖 **Eletricista de Manutenção Eletroeletrônica**\
      
