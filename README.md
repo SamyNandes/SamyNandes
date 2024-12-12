@@ -22,9 +22,6 @@ My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study 
 
 ## Technologies
 
-### Programming Languages
-
-![Javascript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 
 Eu amo aprender e sempre estarei disposta!
                            
