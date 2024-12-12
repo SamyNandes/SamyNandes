@@ -18,9 +18,6 @@ My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study 
        📖 **Eletricista de Manutenção Eletroeletrônica**\
        📆 2024 - moment
 </details>
-     
-
-## Technologies
 
 
 Eu amo aprender e sempre estarei disposta!
