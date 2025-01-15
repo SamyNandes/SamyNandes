@@ -7,7 +7,6 @@ My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study 
 * 🏡✈ Local: Brasil, São Paulo 
 * 🎨💻 Hobbies: Listen some music (Rock, MPB and Pop) karaoke, and when my hardware specs let i play some games...
 
-  📕 Resume
   
 ## Formation
 * 📍 **Etec de Guarulhos**\
