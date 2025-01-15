@@ -17,6 +17,7 @@ My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study 
        📆 2024 - 2025
 
 📊 Github Stats:
+
 ![SamyNandes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyNandes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
