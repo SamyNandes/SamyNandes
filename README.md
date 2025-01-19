@@ -10,11 +10,11 @@ My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study 
   
 ## Formation
 * 📍 **Etec de Guarulhos**\
-       📖 **Desenvolvimento de Sistemas**\
-       📆  2024 - 2026
+         📖 **Desenvolvimento de Sistemas**\
+         📆  2024 - 2026
 * 📍 **SENAI Hermenegildo Campos de Almeida**\
-       📖 **Eletricista de Manutenção Eletroeletrônica**\
-       📆 2024 - 2025
+         📖 **Eletricista de Manutenção Eletroeletrônica**\
+         📆 2024 - 2025
 
 ## 📊 Github Stats:
 
