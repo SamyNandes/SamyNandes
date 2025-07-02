@@ -8,27 +8,27 @@ My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study 
 * 🎨💻 Hobbies: Listen some music (Rock, MPB and Pop) karaoke, and when my hardware specs let i play some games...
 
 ## Skills
-### Programming Languages:
-<div align="left">
+#### Programming Languages:
+* <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="JavaScript logo" />
 </div>
 
-### Frameworks:
-<div align="left">
+#### Frameworks:
+* <div align="left">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="Angular logo" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="NestJS logo" />
 </div>
 
-### Database:
-<div align="left">
+#### Database:
+* <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
-### Cloud and DevOps:
-<div align="left">
+#### Cloud and DevOps:
+* <div align="left">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
 </div>
