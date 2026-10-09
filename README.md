@@ -1,44 +1,69 @@
-## Hi guys, it's me Samy 🤙🍃
+<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyra-fernandes/)     [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/28783901/samyra-fernandes) 
+# Hey, I'm Samyra! 👋
 
-My name's Samyra, i'm in the high school and i'm from Brazil. I intend to study further about computation.
-* 💁‍♀️ Pronouns: She/Her 
-* 🏡✈ Local: Brasil, São Paulo 
-* 🎨💻 Hobbies: Listen some music (Rock, MPB and Pop) karaoke, and when my hardware specs let i play some games...
+### 💻 Software Development Student | Full Stack Developer in progress
 
-## Skills
-#### Programming Languages:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"  alt="TypeScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="JavaScript logo" />
+*Building ideas into real-world applications, one commit at a time.*
+
+📍 São Paulo, Brazil &nbsp; • &nbsp; 🎓 Systems Development Student
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
+
 </div>
 
-#### Frameworks:
-<div align="left">
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="Angular logo" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="NestJS logo" />
+---
+
+### ✨ About me
+
+I'm a Brazilian high school student passionate about technology, software development and understanding how things work behind the scenes.
+
+- 🌱 Currently learning more about **full-stack development, architecture and cloud computing**.
+- 🚀 Interested in building practical applications and improving my skills with each project.
+- 🎵 Outside of coding: **rock, MPB, pop, karaoke and games** (when my PC allows it 😅).
+- 🌎 Based in **São Paulo, Brazil**.
+
+### 🛠️ Tech stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Frameworks & tools**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+
 </div>
 
-#### Database:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+### 🎓 Education
+
+| Institution | Program | Period |
+|:--|:--|:--|
+| **ETEC de Guarulhos** | Systems Development | 2024–2026 |
+| **SENAI Hermenegildo Campos de Almeida** | Electrical Maintenance | 2024–2025 |
+
+### 🌟 A little more about me
+
+> “Keep learning, keep building.”
+
+<div align="center">
+
+**Thanks for visiting! 🧡**
+
 </div>
-
-#### Cloud and DevOps:
-<div align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
-</div>
-
-## Formation
-* 📍 **Etec de Guarulhos**\
-     📖 **Desenvolvimento de Sistemas**\
-     📆  2024 - 2026
-* 📍 **SENAI Hermenegildo Campos de Almeida**\
-     📖 **Eletricista de Manutenção Eletroeletrônica**\
-     📆 2024 - 2025
-
-                           
