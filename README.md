@@ -38,8 +38,6 @@ I'm **Samyra**, a student and developer from São Paulo, Brazil. I enjoy buildin
 
 </div>
 
-> Stats depend on a third-party service and may occasionally be unavailable. Language charts reflect repository code, not overall proficiency.
-
 ### Education
 
 - 🎓 **ETEC de Guarulhos** — Systems Development · 2024–2026
