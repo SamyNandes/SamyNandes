@@ -1,99 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:6C3CF0,100:00D9FF&text=Samyra%20Fernandes&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=59&animation=fadeIn" width="100%" alt="Animated header with Samyra Fernandes" />
+<img src="./assets/banner.svg" width="100%" alt="Samyra Fernandes — Full Stack Development" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Samyra!+%F0%9F%91%8B;Building+ideas+with+code+%F0%9F%92%BB;Angular+%7C+NestJS+%7C+TypeScript;Always+learning%2C+always+creating+%E2%9C%A8" alt="Animated typing introduction" /></a>
+<br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-SamyNandes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamyNandes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samyra%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyra-fernandes/)
-![Profile Views](https://komarev.com/ghpvc/?username=SamyNandes&color=6C3CF0&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1000&color=79C0FF&center=true&vCenter=true&width=720&lines=Angular+%2B+NestJS+%2B+TypeScript;From+ideas+to+working+applications;Learning%2C+building%2C+improving." alt="Animated introduction" />
 
-</div>
+<br />
 
-## ✦ About me
-
-```typescript
-const samyra = {
-  location: 'São Paulo, Brazil 🇧🇷',
-  focus: ['Full Stack Development', 'Web Applications'],
-  currentlyLearning: ['Software Architecture', 'Cloud & DevOps'],
-  funFact: 'Music, karaoke and a few games 🎧',
-  motto: 'Learn. Build. Improve. Repeat.'
-};
-```
-
-I'm a Brazilian developer passionate about building useful applications and learning how great software is designed. I enjoy working across the stack, from a clean interface to a solid backend.
-
-## ⚡ Tech stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,c&theme=dark" alt="TypeScript, JavaScript and C" />
-
-**Frameworks & tools**
-
-<img src="https://skillicons.dev/icons?i=angular,nestjs,nodejs,git,github,vscode&theme=dark" alt="Angular, NestJS, Node.js, Git, GitHub and VS Code" />
-
-**Databases & cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws&theme=dark" alt="MongoDB, MySQL, Docker and AWS" />
+<a href="https://github.com/SamyNandes"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samyra-fernandes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
-## 📊 GitHub insights
+### About me
+
+I'm **Samyra**, a student and developer from São Paulo, Brazil. I enjoy building web applications, exploring backend architecture, and making interfaces that feel good to use.
+
+- 💻 **Currently focused on:** Full Stack Development with Angular, NestJS and TypeScript
+- ☁️ **Exploring:** cloud, deployment, and software architecture
+- 🎧 **Outside of code:** rock, MPB, pop, karaoke, and games
+
+### Tech stack
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamyNandes&theme=tokyonight" alt="GitHub profile contribution summary" width="95%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamyNandes&theme=tokyonight" alt="Repository languages" width="46%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamyNandes&theme=tokyonight" alt="GitHub statistics" width="46%" />
-
-<img src="https://streak-stats.demolab.com?user=SamyNandes&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" width="75%" />
+<img src="https://skillicons.dev/icons?i=ts,js,c,angular,nestjs,nodejs,mongodb,mysql,docker,aws,git&theme=dark&perline=11" alt="TypeScript, JavaScript, C, Angular, NestJS, Node.js, MongoDB, MySQL, Docker, AWS and Git" />
 
 </div>
 
-## 📈 Contribution activity
+### GitHub at a glance
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamyNandes&bg_color=0D1117&color=B8C8E8&line=8B5CF6&point=00D9FF&area_color=6C3CF0&area=true&hide_border=true&radius=12" alt="Contribution activity graph" width="100%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamyNandes&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyNandes&layout=compact&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&langs_count=6" alt="Most used languages in public repositories" />
 
 </div>
 
-## 🐍 Watch my contributions get eaten
+> Stats depend on a third-party service and may occasionally be unavailable. Language charts reflect repository code, not overall proficiency.
+
+### Education
+
+- 🎓 **ETEC de Guarulhos** — Systems Development · 2024–2026
+- ⚡ **SENAI Hermenegildo Campos de Almeida** — Electrical Maintenance · 2024–2025
+
+---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamyNandes/SamyNandes/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamyNandes/SamyNandes/output/github-snake.svg" />
-  <img alt="Snake animation eating GitHub contributions" src="https://raw.githubusercontent.com/SamyNandes/SamyNandes/output/github-snake.svg" width="100%" />
-</picture>
+**Let's build something interesting.**
 
-*This animation appears after the GitHub Action runs for the first time.*
-
-</div>
-
-## 🎓 Education
-
-- 📍 **ETEC de Guarulhos** — Systems Development (2024–2026)
-- ⚡ **SENAI Hermenegildo Campos de Almeida** — Electrical Maintenance (2024–2025)
-
-## 🎧 Beyond the terminal
-
-Music (Rock, MPB & Pop), karaoke and gaming when my hardware allows it. 🎮
-
-<div align="center">
-
-### ✨ Let's connect!
-
-I'm always open to exchanging ideas, learning and collaborating on interesting projects.
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-6C3CF0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyra-fernandes/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0D1117,45:6C3CF0,100:00D9FF" width="100%" alt="Decorative footer" />
+<a href="https://www.linkedin.com/in/samyra-fernandes/">Connect on LinkedIn</a> · <a href="https://github.com/SamyNandes?tab=repositories">Explore my repositories</a>
 
 </div>
