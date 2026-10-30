@@ -29,15 +29,6 @@ I'm **Samyra**, a student and developer from São Paulo, Brazil. I enjoy buildin
 
 </div>
 
-### GitHub at a glance
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamyNandes&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyNandes&layout=compact&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&langs_count=6" alt="Most used languages in public repositories" />
-
-</div>
-
 ### Education
 
 - 🎓 **ETEC de Guarulhos** — Systems Development · 2024–2026
